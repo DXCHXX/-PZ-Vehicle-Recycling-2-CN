@@ -1,0 +1,6 @@
+Sandbox_CN = {
+    Sandbox_VehicleRecycling = "车辆回收",
+    Sandbox_VehicleRecycling_UninstallParts = "拆解前必须卸下部件",
+    Sandbox_VehicleRecycling_UninstallParts_tooltip = "拆解前必须卸下以下部件：发动机盖、后备箱盖、车门、车窗、座椅。",
+    Sandbox_VehicleRecycling_ActionTimeMultiplier = "拆解时间倍率",
+}

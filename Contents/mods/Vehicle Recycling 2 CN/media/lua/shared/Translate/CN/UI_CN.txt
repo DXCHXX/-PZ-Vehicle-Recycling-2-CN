@@ -1,0 +1,7 @@
+UI_CN = {
+    UI_VehicleRecycling_OverrideBurnt = "拆解烧毁车辆",
+    UI_VehicleRecycling_OverrideSmashed = "拆解撞毁车辆",
+    UI_VehicleRecycling_Override_Tooltip = "覆盖原版 [拆解报废汽车] 功能",
+    UI_VehicleRecycling_DropJunk = "清空容器内物品",
+    UI_VehicleRecycling_DropJunk_Tooltip = "从车辆的后备箱、手套箱、座椅上清空物品。",
+}

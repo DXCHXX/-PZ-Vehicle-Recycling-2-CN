@@ -1,0 +1,5 @@
+Tooltip_CN = {
+    Tooltip_VehicleRecycling = "使用丙烷焊枪拆解车辆或拖车可获得金属和电子材料。<LINE>更高的金属加工技能能回收更多可用的零件。",
+    Tooltip_VehicleRecycling_Uninstall = "需卸下:",
+    Tooltip_VehicleRecycling_Passengers = "载有乘客的车辆无法拆解。",
+}
